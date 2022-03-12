@@ -8,16 +8,16 @@ To install either run
 npm i -g crnp
 ```
 
-then you can call ``rncp <project_name>``
+then you can call ``crnp <directory>``
 
 or you can directly run
 
 ```bash
-npx crnp <project_name>
+npx crnp <directory>
 ```
 
 
-It initializes a new RN project by running``npx --package react-native-cli`` with additionally following modules:
+It creates a new RN project by running``npx --package react-native-cli`` in specified directory with these addition modules:
 
 
 * @react-native-async-storage/async-storage
