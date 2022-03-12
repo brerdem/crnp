@@ -1,16 +1,17 @@
 {
-  "name": "commander",
+  "name": "rncp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates a bare RN project with most common modules and directory structure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "crnp": "index.js"
+    "rncp": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["React Native", "Project Structure", "Extra Modules"],
+  "author": "Burak Erdem",
+  "homepage": "https://github.com/brerdem/rncp",
   "license": "ISC",
   "dependencies": {
     "commander": "^9.0.0",

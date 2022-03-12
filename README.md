@@ -2,11 +2,23 @@
 
 **This modules creates a bare RN project with most common modules and directory structure** 
 
-***Author: Burak Erdem***
+To install either run
 
-Clone the repo, install and run ``npm i -g .`` to make it global module then execute ``rncp <project_name>`` to initialize a new RN project. It uses ``npx --package react-native-cli`` internally.
+```bash
+npm i -g rncp
+```
 
-Additional modules are: 
+then you can call ``rncp <project_name>``
+
+or you can directly run
+
+```bash
+npx rncp <project_name>
+```
+
+
+It initializes a new RN project by running``npx --package react-native-cli`` with additionally following modules:
+
 
 * @react-native-async-storage/async-storage
 * @react-native-community/masked-view
