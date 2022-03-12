@@ -1,11 +1,11 @@
-## RNCP
+## CRNP
 
 **This modules creates a bare RN project with most common modules and directory structure** 
 
 To install either run
 
 ```bash
-npm i -g rncp
+npm i -g crnp
 ```
 
 then you can call ``rncp <project_name>``
@@ -13,7 +13,7 @@ then you can call ``rncp <project_name>``
 or you can directly run
 
 ```bash
-npx rncp <project_name>
+npx crnp <project_name>
 ```
 
 
