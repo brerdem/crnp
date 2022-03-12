@@ -1,21 +1,17 @@
 ## CRNP
 
-**This modules creates a bare RN project with most common modules and directory structure** 
+**This module creates a bare React Native project with most React Native libraries and directory structure** 
 
 To install either run
-
 ```bash
 npm i -g crnp
 ```
-
-then you can call ``crnp <directory>``
+and then you can use like ``crnp <directory>``
 
 or you can directly run
-
 ```bash
 npx crnp <directory>
 ```
-
 
 It creates a new RN project by running``npx --package react-native-cli`` in specified directory with these additional modules:
 

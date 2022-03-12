@@ -1,6 +1,6 @@
 {
   "name": "crnp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Creates a bare RN project with most common modules and directory structure",
   "main": "index.js",
   "scripts": {
