@@ -17,7 +17,7 @@ npx crnp <directory>
 ```
 
 
-It creates a new RN project by running``npx --package react-native-cli`` in specified directory with these addition modules:
+It creates a new RN project by running``npx --package react-native-cli`` in specified directory with these additional modules:
 
 
 * @react-native-async-storage/async-storage
